@@ -1,0 +1,22 @@
+{
+  "name": "node_sandbox",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ncc build src/index.js -o dist"
+  },
+  "keywords": [],
+  "author": "Paul Talbot",
+  "license": "MIT",
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "mustache": "^3.2.1"
+  },
+  "devDependencies": {
+    "@types/mustache": "^4.2.1",
+    "@vercel/ncc": "^0.34.0"
+  }
+}

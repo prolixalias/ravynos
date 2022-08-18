@@ -1,0 +1,32 @@
+[
+  {
+    "code": "de_DE",
+    "description": "Deutsch",
+    "flag": "🇩🇪",
+    "what": "Was ist ravynOS?"
+  },
+  {
+    "code": "en_GB",
+    "description": "English",
+    "flag": "🇬🇧",
+    "what": "What is ravynOS?"
+  },
+  {
+    "code": "id_ID",
+    "description": "Indonesia",
+    "flag": "🇮🇩",
+    "what": "Apa itu ravynOS?"
+  },
+  {
+    "code": "it_IT",
+    "description": "Italiano",
+    "flag": "🇮🇹",
+    "what": "Cos'è ravynOS?"
+  },
+  {
+    "code": "tr_TR",
+    "description": "Türkçe",
+    "flag": "🇹🇷",
+    "what": "ravynOS Nedir?"
+  }
+]

@@ -1,5 +1,3 @@
-# ravynOS Nedir? [![Build Status](https://api.cirrus-ci.com/github/ravynsoft/ravynos.svg?branch=main)](https://cirrus-ci.com/github/ravynsoft/ravynos) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-### Don't speak you Turkish? Read this in: [Italiano](README.IT.md), [English](README.md)
 
 ravynOS macOS ile x86-64(ve ARM) mimarisinde uyumluluk sağlamayı ve benzer bir deneyim sunmayı amaçlayan açık kaynaklı bir işletim sistemidir. FreeBSD'nin sağlam temelleri üzerine inşa edilmiş olup hali hazırda bulunan açık kaynaklı paketleri ve boşlukları doldurmak için kendi kodunu kullanır.
 
@@ -74,4 +72,4 @@ Source Roadmap:
 | usr.bin | User commands. |
 | usr.sbin | System administration commands. |
 
-For information on synchronizing your source tree with one or more of the FreeBSD Project's development branches, please see [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/cutting-edge/#current-stable).
+For information on synchronizing your source tree with one or more of the FreeBSD Project's development branches, please see: [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/cutting-edge/#current-stable).

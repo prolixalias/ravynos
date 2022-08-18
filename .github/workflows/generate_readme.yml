@@ -1,0 +1,18 @@
+name: Generate documentation
+
+on:
+  push:
+    branches: [ docs ]
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '12'
+    - run: npm ci
+    - run: yarn build
+    - run: npm test
+
